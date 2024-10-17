@@ -46,7 +46,7 @@ title="SPSS" width="45" height="30" />&nbsp;
 ### 🧟‍♂️ Обо мне
 1. Аналитика: 
 - Анализ и визуализация данных в Python (pandas, scipy.stats, seaborn)
-- Знания основ языка SQL на среднем уровне 
+- Знания основ языка SQL  
 - Визуализация данных в Yandex DataLens, Tableua
 - Проведение A/B тестов
 - Математическая база (статистика, тервер)
@@ -68,7 +68,7 @@ https://csr-rb.ru/
 | AB-тест Онлайн-магазин ([git](https://github.com/ZhienbaevAlmas/AB_test_food-delivery)) | Умная система рекомендации товаров                  | lifelines, pandas, seaborn, matplotlib, pingouin, scipy.stats |            
 | [Tableau](https://public.tableau.com/views/hh_ru_17290864002170/hh_ru?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)        | 1. Анализ вакансий hh                                | Tableau                                                       |
 | [Tableau](https://public.tableau.com/views/KarpovDashboardPractice_17270302764680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)                        | 2. Продажи магазина                                  | Tableau                                                             |
-| [Yandex DataLens](https://datalens.yandex/8v54xn0zpregy) | 1. Благосостояние регионов РБ                        | Yandex Datalens                                               |
+| [Yandex DataLens](https://datalens.yandex/8v54xn0zpregy) | 1. Благосостояние регионов Республики Башкортостан                        | Yandex Datalens                                               |
 | [Yandex DataLens](https://datalens.yandex/2c8vtzqpggxip)                        | 2. Анализ продаж                                  | Yandex Datalens                                                               |
           
 
