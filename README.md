@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="telegram-url">
+    <a href="https://t.me/kirgiz_kaysak">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
 badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
@@ -20,15 +20,15 @@ badge&logo=telegram&logoColor=white" alt="Telegram"/>
 ### Языки и инструменты
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
-title="python" width="40" height="40" />nbsp;
+title="python" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-title="sql" width="40" height="40" />nbsp;
+title="sql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-title="postgresql" width="40" height="40" />nbsp;
+title="postgresql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
-title="jupyter" width="40" height="40" />nbsp;
+title="jupyter" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-title="pycharm" width="40" height="40" />nbsp;         
+title="pycharm" width="40" height="40" />&nbsp;         
           
 
           
