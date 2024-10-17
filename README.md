@@ -67,8 +67,9 @@ https://csr-rb.ru/
 | AB-тест Сайт Знакомств  | Новый алгоритм для поиска наиболее подходящих анкет | pandas, numpy, seaborn, matplotlib, pingouin, scipy.stats     |
 | AB-тест Онлайн-магазин  | Умная система рекомендации товаров                  | lifelines, pandas, seaborn, matplotlib, pingouin, scipy.stats |            
 | Дашборды Tableau        | 1.Анализ вакансий hh                                | Tableau                                                       |
-                            2. Продажи магазина                                                                                                
-| Дашборды Yandex Datalens| 1.Благосостояние регионов РБ 2.Продажи магазина     | Yandex Datalens                                               |
+|                         | 2.Продажи магазина                                  |                                                               |
+| Дашборды Yandex Datalens| 1.Благосостояние регионов РБ                        | Yandex Datalens                                               |
+|                         | 2.Продажи магазина                                  |                                                               |
           
 
           
