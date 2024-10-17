@@ -37,11 +37,11 @@ title="tableau" width="45" height="30" />&nbsp;
 <img src="https://img.shields.io/badge/DataLens-blue"
 title="Datalens" width="45" height="30" />&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
-title="git" width="40" height="40" />&nbsp;    
+title="git" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"
-title="airflow" width="40" height="40" />&nbsp;  
+title="airflow" width="40" height="40" />&nbsp;
 <img src="https://img.shields.io/badge/SPSS-blue"
-title="SPSS" width="45" height="30" />&nbsp;          
+title="SPSS" width="45" height="30" />&nbsp;   
 
              
         
