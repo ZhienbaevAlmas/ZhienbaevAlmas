@@ -66,10 +66,10 @@ https://csr-rb.ru/
 |-------------------------|-----------------------------------------------------|-------------------------------------------------------------- |
 | AB-тест Сайт Знакомств  | Новый алгоритм для поиска наиболее подходящих анкет | pandas, numpy, seaborn, matplotlib, pingouin, scipy.stats     |
 | AB-тест Онлайн-магазин  | Умная система рекомендации товаров                  | lifelines, pandas, seaborn, matplotlib, pingouin, scipy.stats |            
-| [Tableau] (https://public.tableau.com/views/hh_ru_17290864002170/hh_ru?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)        | 1.Анализ вакансий hh                                | Tableau                                                       |
-| [Tableau] (https://public.tableau.com/views/KarpovDashboardPractice_17270302764680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)                        | 2.Продажи магазина                                  | Tableau                                                             |
-| [Yandex DataLens] (https://datalens.yandex/8v54xn0zpregy) | 1.Благосостояние регионов РБ                        | Yandex Datalens                                               |
-| [Yandex DataLens] (https://datalens.yandex/2c8vtzqpggxip)                        | 2.Продажи магазина                                  | Yandex Datalens                                                               |
+| [Tableau](https://public.tableau.com/views/hh_ru_17290864002170/hh_ru?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)        | 1.Анализ вакансий hh                                | Tableau                                                       |
+| [Tableau](https://public.tableau.com/views/KarpovDashboardPractice_17270302764680/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)                        | 2.Продажи магазина                                  | Tableau                                                             |
+| [Yandex DataLens](https://datalens.yandex/8v54xn0zpregy) | 1.Благосостояние регионов РБ                        | Yandex Datalens                                               |
+| [Yandex DataLens](https://datalens.yandex/2c8vtzqpggxip)                        | 2.Продажи магазина                                  | Yandex Datalens                                                               |
           
 
           
