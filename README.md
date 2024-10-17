@@ -28,6 +28,8 @@ title="postgresql" width="40" height="40" />&nbsp;
 title="jupyter" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
 title="pycharm" width="40" height="40" />&nbsp;         
+<img src="https://img.shields.io/badge/tableau"
+title="tableau" width="40" height="40" />&nbsp;      
           
 
           
