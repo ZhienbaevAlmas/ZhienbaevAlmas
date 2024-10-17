@@ -27,14 +27,23 @@ title="postgresql" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 title="jupyter" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-title="pycharm" width="40" height="40" />&nbsp;         
+title="pycharm" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+title="git" width="40" height="40" />&nbsp;    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg"
+title="airflow" width="40" height="40" />&nbsp; 
+                        
 <img src="https://img.shields.io/badge/tableau-blue"
-title="tableau" width="40" height="40" />&nbsp; 
+title="tableau" width="40" height="30" />&nbsp; 
+<img src="https://img.shields.io/badge/redash-yellow"
+title="redash" width="40" height="30" />&nbsp; 
 <img src="https://img.shields.io/badge/DataLens-blue"
-title="tableau" width="40" height="40" />&nbsp;      
+title="Datalens" width="40" height="30" />&nbsp;      
 <img src="https://img.shields.io/badge/ClickHouse-yellow"
-title="tableau" width="40" height="40" />&nbsp;      
-        
+title="Clickhouse" width="40" height="30" />&nbsp;      
+<img src="https://img.shields.io/badge/SPSS-blue"
+title="SPSS" width="40" height="30" />&nbsp;          
+
              
         
 
