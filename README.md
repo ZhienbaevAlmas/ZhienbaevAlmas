@@ -34,15 +34,15 @@ title="git" width="40" height="40" />&nbsp;
 title="airflow" width="40" height="40" />&nbsp; 
                         
 <img src="https://img.shields.io/badge/tableau-blue"
-title="tableau" width="30" height="30" />&nbsp; 
+title="tableau" width="45" height="30" />&nbsp; 
 <img src="https://img.shields.io/badge/redash-yellow"
-title="redash" width="30" height="30" />&nbsp; 
+title="redash" width="45" height="30" />&nbsp; 
 <img src="https://img.shields.io/badge/DataLens-blue"
-title="Datalens" width="30" height="30" />&nbsp;      
+title="Datalens" width="45" height="30" />&nbsp;      
 <img src="https://img.shields.io/badge/ClickHouse-yellow"
-title="Clickhouse" width="30" height="30" />&nbsp;      
+title="Clickhouse" width="45" height="30" />&nbsp;      
 <img src="https://img.shields.io/badge/SPSS-blue"
-title="SPSS" width="30" height="30" />&nbsp;          
+title="SPSS" width="45" height="30" />&nbsp;          
 
              
         
